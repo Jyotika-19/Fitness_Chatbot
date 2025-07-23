@@ -1,0 +1,482 @@
+{
+  "fitness_goals": {
+    "keywords": [
+      "goal",
+      "goals",
+      "want",
+      "achieve",
+      "lose",
+      "weight",
+      "gain",
+      "muscle",
+      "strength",
+      "endurance",
+      "cardio",
+      "fat",
+      "tone",
+      "build",
+      "lean",
+      "general",
+      "fitness",
+      "athletic",
+      "performance",
+      "health"
+    ],
+    "responses": [
+      "Hello! I see you're interested in fitness. I'm your personal workout planning assistant. Let's create a customized workout plan for you! What is your primary fitness goal? ",
+      "Hi there! Ready to get fit? I'll help you design the perfect workout routine. What is your main objective? "
+    ]
+  },
+  "experience_level": {
+    "keywords": [
+      "experience",
+      "beginner",
+      "intermediate",
+      "advanced",
+      "new",
+      "started",
+      "expert",
+      "years",
+      "level",
+      "fitness",
+      "gym",
+      "months",
+      "novice",
+      "starter"
+    ],
+    "responses": [
+      "What is your fitness experience level? (e.g: beginner, intermediate, advanced etc.)",
+      "How would you describe your workout experience? (e.g: beginner, intermediate, advanced etc.)"
+    ]
+  },
+  "equipment": {
+    "keywords": [
+      "equipment",
+      "gym",
+      "home",
+      "weights",
+      "dumbbells",
+      "barbell",
+      "machine",
+      "bodyweight",
+      "have",
+      "access",
+      "available",
+      "membership",
+      "full",
+      "basic",
+      "minimal",
+      "none"
+    ],
+    "responses": [
+      "What equipment do you have access to? (e.g: 'Gym membership', 'Home weights', 'Dumbbells and bands', or 'No equipment')? ",
+      "Select your available equipment by typing: 'gym membership', 'home weights', 'dumbbells and bands', or 'no equipment'"
+    ]
+  },
+  "frequency": {
+    "keywords": [
+      "often",
+      "frequency",
+      "days",
+      "week",
+      "daily",
+      "times",
+      "schedule",
+      "available",
+      "busy",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "responses": [
+      "How many days per week can you work out? (e.g. 3, 5, 7)",
+      "What is your preferred weekly frequency? (e.g. 3, 5, 7)"
+    ]
+  },
+  "time_availability": {
+    "keywords": [
+      "time",
+      "minutes",
+      "hour",
+      "hours",
+      "long",
+      "duration",
+      "busy",
+      "schedule",
+      "available",
+      "mins",
+      "short",
+      "quick",
+      "extended",
+      "20",
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "responses": [
+      "How much time can you dedicate per workout?",
+      "What is your preferred workout duration?"
+    ]
+  },
+  "current_weight": {
+    "keywords": [
+      "lbs",
+      "kg",
+      "current",
+      "weight",
+      "pounds",
+      "kilos",
+      "kilograms",
+      "weigh"
+    ],
+    "responses": [
+      "What is your current weight? Please include units (example: '150 lbs' or '68 kg')",
+      "Please enter your current weight with units (examples: '140 pounds', '65 kilograms')"
+    ]
+  },
+  "desired_weight": {
+    "keywords": [
+      "lbs",
+      "kg",
+      "desired",
+      "weight",
+      "goal",
+      "target",
+      "want",
+      "pounds",
+      "kilos",
+      "kilograms",
+      "aim"
+    ],
+    "responses": [
+      "What is your target weight? Please include units (example: '140 lbs' or '63 kg')",
+      "Enter your goal weight with units (examples: '130 pounds', '60 kilograms')"
+    ]
+  },
+  "height": {
+    "keywords": [
+      "cm",
+      "ft",
+      "feet",
+      "height",
+      "meter",
+      "centimeter",
+      "inches",
+      "in",
+      "tall"
+    ],
+    "responses": [
+      "What is your height? Use format like '5 feet 8 inches' or '173 cm'",
+      "Please enter your height (examples: '5 foot 6', '170 centimeters', '1.75 meters')"
+    ]
+  },
+  "body_composition": {
+    "keywords": [
+      "body",
+      "obese",
+      "fat",
+      "percentage",
+      "lean",
+      "muscle",
+      "mass",
+      "composition",
+      "skinny",
+      "overweight",
+      "athletic",
+      "build",
+      "frame",
+      "underweight",
+      "average",
+      "dont",
+      "know",
+      "unsure"
+    ],
+    "responses": [
+      "How would you describe your current body composition? (e.g: underweight, overweight etc.)",
+      "What is your body type? (e.g: underweight, overweight, skinny etc.)"
+    ]
+  },
+  "workout_timing": {
+    "keywords": [
+      "morning",
+      "evening",
+      "afternoon",
+      "night",
+      "early",
+      "late",
+      "before",
+      "after",
+      "work",
+      "dawn",
+      "dusk",
+      "noon",
+      "lunch",
+      "am",
+      "pm"
+    ],
+    "responses": [
+      "When do you prefer to work out?",
+      "What is your preferred workout time?"
+    ]
+  },
+  "intensity_preference": {
+    "keywords": [
+      "intense",
+      "low",
+      "light",
+      "moderate",
+      "heavy",
+      "easy",
+      "hard",
+      "challenging",
+      "gentle",
+      "vigorous",
+      "mild",
+      "extreme",
+      "comfortable",
+      "high",
+      "varies"
+    ],
+    "responses": [
+      "What intensity level do you prefer? ",
+      "How challenging do you want your workouts? "
+    ]
+  },
+  "social_preference": {
+    "keywords": [
+      "alone",
+      "home",
+      "partner",
+      "group",
+      "team",
+      "solo",
+      "together",
+      "friends",
+      "trainer",
+      "coach",
+      "class",
+      "private",
+      "social",
+      "personal"
+    ],
+    "responses": [
+      "Do you prefer working out alone, with a partner, or in group classes?",
+      "What is your preferred workout environment? (e.g: alone, group etc.) "
+    ]
+  },
+  "cardio_type": {
+    "keywords": [
+      "running",
+      "walking",
+      "cycling",
+      "swimming",
+      "dancing",
+      "hiking",
+      "jogging",
+      "rowing",
+      "elliptical",
+      "treadmill",
+      "bike",
+      "biking",
+      "outdoor",
+      "stationary"
+    ],
+    "responses": [
+      "What type of cardio do you enjoy? ",
+      "What cardio exercise do you prefer? "
+    ]
+  },
+  "strength_focus": {
+    "keywords": [
+      "upper",
+      "lower",
+      "body",
+      "arms",
+      "legs",
+      "core",
+      "abs",
+      "chest",
+      "back",
+      "shoulders",
+      "glutes",
+      "full",
+      "compound",
+      "balanced",
+      "belly"
+    ],
+    "responses": [
+      "Which body area would you like to prioritize? ",
+      "Which part of your body is your main focus? "
+    ]
+  },
+  "recovery_style": {
+    "keywords": [
+      "rest",
+      "active",
+      "recovery",
+      "stretching",
+      "yoga",
+      "massage",
+      "foam",
+      "rolling",
+      "sleep",
+      "relax",
+      "gentle",
+      "restore",
+      "complete"
+    ],
+    "responses": [
+      "What recovery methods do you prefer? ",
+      "How do you like to recover between workouts? "
+    ]
+  },
+  "seasonal_activity": {
+    "keywords": [
+      "summer",
+      "winter",
+      "spring",
+      "fall",
+      "outdoor",
+      "indoor",
+      "cold",
+      "hot",
+      "yes",
+      "no",
+      "weather",
+      "matter",
+      "doesnt",
+      "doesn't",
+      "season",
+      "year",
+      "round",
+      "always",
+      "varies"
+    ],
+    "responses": [
+      "Do you prefer seasonal activities? (e.g: indoor, outdoor in summer, winter sports etc. ",
+      "What is your activity preference? (e.g: year round gym, outdoor warm weather, seasonal variety, weather doesn't matter etc."
+    ]
+  },
+  "stress_management": {
+    "keywords": [
+      "stress",
+      "anxiety",
+      "calm",
+      "relax",
+      "meditation",
+      "mindfulness",
+      "tension",
+      "pressure",
+      "overwhelmed",
+      "peaceful",
+      "high",
+      "intensity",
+      "gentle",
+      "depends"
+    ],
+    "responses": [
+      "How do you prefer to manage stress through exercise? ",
+      "What stress management approach works for you? "
+    ]
+  },
+  "progress_tracking": {
+    "keywords": [
+      "track",
+      "measure",
+      "progress",
+      "photos",
+      "pictures",
+      "pics",
+      "fitness",
+      "app",
+      "application",
+      "scale",
+      "weight",
+      "strength",
+      "reps",
+      "time",
+      "distance",
+      "record",
+      "log",
+      "measurements",
+      "feel",
+      "energy",
+      "performance"
+    ],
+    "responses": [
+      "How do you prefer to track progress? ",
+      "What progress tracking motivates you? "
+    ]
+  },
+  "limitations": {
+    "keywords": [
+      "injury",
+      "injuries",
+      "pain",
+      "problem",
+      "limitation",
+      "issue",
+      "knee",
+      "back",
+      "shoulder",
+      "medical",
+      "condition",
+      "no",
+      "none",
+      "nothing",
+      "restrictions",
+      "avoid",
+      "cant",
+      "high",
+      "impact",
+      "heavy",
+      "lifting"
+    ],
+    "responses": [
+      "Do you have any injuries or limitations? ",
+      "Are there exercises you need to avoid? "
+    ]
+  },
+  "preferences": {
+    "keywords": [
+      "like",
+      "enjoy",
+      "prefer",
+      "hate",
+      "dislike",
+      "favorite",
+      "love",
+      "fun",
+      "boring",
+      "cardio",
+      "strength",
+      "weights",
+      "bodyweight",
+      "outdoor",
+      "yoga",
+      "sports",
+      "dancing"
+    ],
+    "responses": [
+      "What types of exercises do you enjoy most? (e.g: cardio activities, strength training, yoga etc.",
+      "Which workout style appeals to you? (e.g: high energy cardio, weight lifting, bodyweight exercises, mind body workouts etc."
+    ]
+  },
+  "fallback": {
+    "keywords": [],
+    "responses": [
+      "I didn't quite understand that response. Could you please use one of the suggested phrases or rephrase your answer?",
+      "I'm not sure I caught that. Could you try using the specific words I mentioned or explain differently?"
+    ]
+  }
+}
